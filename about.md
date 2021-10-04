@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Aspiring Software Engineer Who's Just Trying To Survive 2020.  
+Aspiring Software Engineer.  
 
 Knowledgable in Java, Web Development(HTML, CSS, Javascript), database programming (SQL) and experimenting in Python and C#.  
 
