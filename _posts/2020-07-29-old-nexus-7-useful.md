@@ -35,8 +35,8 @@ If for some reason you are holding on to this old tablet, and refuse to upgrade 
 
 1. Make sure usb debugging is enabled. If it is not already go in to Setting About and press the Build Number 5 Times until it says you are a developer. Then In your developer options settings make sure USB debuggin is also turned on. This will look slightly different from these screenshots. [Put Screenshots here]
 
-![settings](/assets/old-nexus-7-useful/Screenshot_20200729-190004.png)
-![developer_options](/assets/old-nexus-7-useful/Screenshot_20200729-190144.png)
+![settings](/blog/assets/old-nexus-7-useful/Screenshot_20200729-190004.png)
+![developer_options](/blog/assets/old-nexus-7-useful/Screenshot_20200729-190144.png)
 
 2. Make sure you are open a terminal or command prompt in the directory of the adb platform-tools. run 
 
@@ -59,7 +59,7 @@ If for some reason you are holding on to this old tablet, and refuse to upgrade 
 
 5. Mount /system
 
-![mount](/assets/old-nexus-7-useful/Screenshot_2020-07-29-19-33-02.png)
+![mount](/blog/assets/old-nexus-7-useful/Screenshot_2020-07-29-19-33-02.png)
 
 6. Type in Terminal 
     
